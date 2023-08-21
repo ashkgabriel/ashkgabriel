@@ -1,7 +1,8 @@
 # 💫About Me :
-📚 Student of Multiplatform Software Development in FATEC (Votorantim).
-💬 Brazilian Portuguese and English.
-💻 HTML, CSS, Python, JS knowledge.
+
+📚 Student of Multiplatform Software Development in FATEC (Votorantim).  
+💬 Brazilian Portuguese and English.  
+💻 HTML, CSS, Python, JS knowledge.  
 
 ⚡ Tech enthusiast.
 
